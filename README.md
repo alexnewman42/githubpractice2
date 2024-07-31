@@ -5,7 +5,10 @@ Three ways to clone: HTTPS, SSH, Github CLI
 
 ### HTTPS
 
-```md
+```sh
+https://github.com/alexnewman42/githubpractice2.git
+```
+
 git clone 
 
 ## Commits
